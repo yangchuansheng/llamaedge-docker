@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=llamaedge/api-server:latest
+ARG BASE_IMAGE=yangchuansheng/api-server:latest
 FROM $BASE_IMAGE
 ENV DEBIAN_FRONTEND=noninteractive
 
